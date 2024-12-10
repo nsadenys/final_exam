@@ -1,7 +1,7 @@
 Hello this is my link of the streamlit app :https://superstore-sales-analysis-denys.streamlit.app/
 
 
-#  Superstore ASales Analysis
+#  Superstore Sales Analysis
 
 INTRODUCTION: This Analysis will help how they can sold the products in different country in world( Global or continental sale products). This approach lets you tell a compelling story about the company's performance, areas of growth, world compatition and potential areas of focus for future strategies. in this project I analyse different features like Sale by category, sale by segment where consumer (52.3%) produce more than Homme office(17.9%) and corporate(29.7%), Hierarchical viev of sales using TreamMap, and Product Sales by Region where to know the location of market.
 
